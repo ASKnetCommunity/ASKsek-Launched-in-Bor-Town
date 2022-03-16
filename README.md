@@ -7,7 +7,7 @@ Ataka Hub, Launched ASKsek (Access to skills and Knowledge science experiment ki
  
 Vine High secondary schools with a population of about 250 students with over 100 of them being  s4 students waiting to sit for their exams later in the year, but these numbers come with a looming challenge, “we don’t have never done any practical lessons for the students offering science subjects, making it hard for them to understand what has been taught or what may likely be examined” said worried Science teacher Mr. Nyiko Baptist, as he talks during an interview just before the launch of the ASKsek.
 
- ![20220316_101818](https://user-images.githubusercontent.com/56886935/158630626-67af5773-56ed-4ba0-9a5c-9647c5111879.jpg)
+ ![vine high school](https://user-images.githubusercontent.com/56886935/158630626-67af5773-56ed-4ba0-9a5c-9647c5111879.jpg)
 
 
 During the Launch of the ASKsek, Mr. Nyiko Baptist organised a physics practical session with the S4 students with a focus on ‘Motion Under Gravity”.
@@ -26,20 +26,20 @@ This project is supported by r0g Agency for development and Critical transformat
 
 **Testimonials **
 
-![20220316_105652#1](https://user-images.githubusercontent.com/56886935/158629992-89d4e8e9-a21a-4161-b708-960d950aa42d.jpg)
+![testimonials](https://user-images.githubusercontent.com/56886935/158629992-89d4e8e9-a21a-4161-b708-960d950aa42d.jpg)
 
 David Dhieu s4 student, says “we believe by seeing, if we can’t see what we learn we shall forget it!, I saw how the pendulum bob was moving. We need more practicals in physics and chemistry, and its my first time doing practicals and its exciting”
 “The more the practicals the more students can easily chose science subjects”
 
-![20220316_110125](https://user-images.githubusercontent.com/56886935/158629840-03e6f4bc-5996-4f88-905d-0a0bf748d95d.jpg)
+![David student](https://user-images.githubusercontent.com/56886935/158629840-03e6f4bc-5996-4f88-905d-0a0bf748d95d.jpg)
 
 Yom Duom, s4 student, “ I feel excited after doing my first practicals, and as I do sciences I can say that science subjects are not difficult just that the fact that we don’t have science subjects make it very difficult to understand “
 Baptist, science teacher, vine secondary school.  People understand, they are bright but the absence of practicals, will make just get papers but with no knowledge, we need more of this nation wide.
 
-![20220316_110620](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
+![Yom duom student](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
 
 Malaual Peter Dau Head teacher, Vine secondary school , We have partnered with Ataka Hub fro a while, and we are very happy of what they have introduced to the learners because the world has become very practicals, they learn theroires in sciences yet other part of Africa students are learning practical, at least a science student should know what is a , bused burner etc at least then they can start liking and loving the subject!”  
 
-![20220316_110417](https://user-images.githubusercontent.com/56886935/158629497-5a92616d-0987-4443-bfa2-3777ac8d0f4c.jpg)
+![malual peter head teacher](https://user-images.githubusercontent.com/56886935/158629497-5a92616d-0987-4443-bfa2-3777ac8d0f4c.jpg)
 **Bior Ajang - ED Ataka HUB Bor**
 Science subjects are simple but the reason why students fear science subjects is because there is nothing that simplify the science subjects that’s why we are standing up for our students to make science subject simple and understandable. 
