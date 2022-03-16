@@ -31,12 +31,12 @@ This project is supported by r0g Agency for development and Critical transformat
 David Dhieu s4 student, says “we believe by seeing, if we can’t see what we learn we shall forget it!, I saw how the pendulum bob was moving. We need more practicals in physics and chemistry, and its my first time doing practicals and its exciting”
 “The more the practicals the more students can easily chose science subjects”
 
-![20220316_110125](https://user-images.githubusercontent.com/56886935/158629840-03e6f4bc-5996-4f88-905d-0a0bf748d95d.jpg)
+![David dhieu student](https://user-images.githubusercontent.com/56886935/158629840-03e6f4bc-5996-4f88-905d-0a0bf748d95d.jpg)
 
 Yom Duom, s4 student, “ I feel excited after doing my first practicals, and as I do sciences I can say that science subjects are not difficult just that the fact that we don’t have science subjects make it very difficult to understand “
 Baptist, science teacher, vine secondary school.  People understand, they are bright but the absence of practicals, will make just get papers but with no knowledge, we need more of this nation wide.
 
-![20220316_110620](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
+![Yom duom student](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
 
 Malaual Peter Dau Head teacher, Vine secondary school , We have partnered with Ataka Hub fro a while, and we are very happy of what they have introduced to the learners because the world has become very practicals, they learn theroires in sciences yet other part of Africa students are learning practical, at least a science student should know what is a , bused burner etc at least then they can start liking and loving the subject!”  
 
