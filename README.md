@@ -19,7 +19,7 @@ Physics Practicals I.e (retort stands, clamps, pendulum bob, masses, Glass block
 Chemistry, (Reagents, acids, chemicals, indicators, and many more
 
 
-**ASKsec and ASKnet!**
+**ASKsek and ASKnet!**
 ASKsec is part of the ASKnet events and activities that are aimed at providing skills, and knowledge to communities with difficult in accessing information and resources, by the provision of tools and materials to schools to hence solve local challenges affecting the education sector in Bor this event becomes part of the series of events and projects implemented under the ASKnet project that is implemented by 5 Hubs in Uganda, Juba and Bor!.
 These different hubs have different methodologies of approaching problems the affect their communities, in very unique and innovative ways just like the ASKsek that seeks to provide access to tools and materials and reagents (Lab equipment) in mobile kit that can be accessed by over 7 schools in the town suffering a dare need to laboratory equipment to enhance the learning of science subjects in these schools.
 This project is supported by r0g Agency for development and Critical transformation, with funds from BMZ
