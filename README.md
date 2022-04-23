@@ -59,6 +59,6 @@ This project is supported by R0g (Agency for development and critical transforma
 |r0g Agency|ASKnet|ATaka HuB|
 |:--------:|:----:|:-------|
 |![R0g logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)|--|
-| [Official website](https://openculture.agency/)
+| [Official website](https://openculture.agency/)| [official website](https://github.com/ASKnet-Open-Training)
 
 
