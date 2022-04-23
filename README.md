@@ -35,12 +35,12 @@ This project is supported by r0g Agency for development and Critical transformat
 
 ![20220316_105652#1](https://user-images.githubusercontent.com/56886935/158629992-89d4e8e9-a21a-4161-b708-960d950aa42d.jpg)
 
-David Dhieu s4 student, says “we believe by seeing, if we can’t see what we learn we shall forget it!, I saw how the pendulum bob was moving. We need more practicals in physics and chemistry, and its my first time doing practicals and its exciting”
+**David Dhieu s4 student**, says “we believe by seeing, if we can’t see what we learn we shall forget it!, I saw how the pendulum bob was moving. We need more practicals in physics and chemistry, and its my first time doing practicals and its exciting”
 “The more the practicals the more students can easily chose science subjects”
 
 ![David dhieu student](https://user-images.githubusercontent.com/56886935/158629840-03e6f4bc-5996-4f88-905d-0a0bf748d95d.jpg)
 
-Yom Duom, s4 student, “ I feel excited after doing my first practicals, and as I do sciences I can say that science subjects are not difficult just that the fact that we don’t have science subjects make it very difficult to understand “
+**Yom Duom, s4 student**, “ I feel excited after doing my first practicals, and as I do sciences I can say that science subjects are not difficult just that the fact that we don’t have science subjects make it very difficult to understand “
 Baptist, science teacher, vine secondary school.  People understand, they are bright but the absence of practicals, will make just get papers but with no knowledge, we need more of this nation wide.
 
 ![Yom duom student](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
