@@ -26,13 +26,15 @@ According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains 
 ![](Images/IMG_20220423_033207_455.jpg)
 ![](Images/IMG_20220423_212946_793.jpg)
 
-
 **ASKsek and ASKnet**
-ASKsec is part of the ASKnet events and activities that are aimed at providing skills, and knowledge to communities with difficult in accessing information and resources, by the provision of tools and materials to schools to hence solve local challenges affecting the education sector in Bor this event becomes part of the series of events and projects implemented under the ASKnet project that is implemented by 5 Hubs in Uganda, Juba and Bor!.
-These different hubs have different methodologies of approaching problems the affect their communities, in very unique and innovative ways just like the ASKsek that seeks to provide access to tools and materials and reagents (Lab equipment) in mobile kit that can be accessed by over 7 schools in the town suffering a dare need to laboratory equipment to enhance the learning of science subjects in these schools.
+# ASKsek: 
+This is part of the ASKnet events and activities that are aimed at providing skills, and knowledge to communities with difficult in accessing information and resources, by the provision of tools and materials to schools to hence solve local challenges affecting the education sector in Bor this event becomes part of the series of events and projects implemented under the ASKnet project that is implemented by 5 Hubs in Uganda, Juba and Bor!.
+
+These different hubs have different methodologies of approaching problems that affect their communities, in very unique and innovative ways just like the ASKsek that seeks to provide access to tools and materials and reagents (Lab equipment) in mobile kit that can be accessed by over 7 schools in the town suffering a dare need to laboratory equipment to enhance the learning of science subjects in these schools.
+
 This project is supported by r0g Agency for development and Critical transformation, with funds from BMZ
 
-**Testimonials **
+**Testimonials**
 
 ![20220316_105652#1](https://user-images.githubusercontent.com/56886935/158629992-89d4e8e9-a21a-4161-b708-960d950aa42d.jpg)
 
@@ -46,7 +48,8 @@ Baptist, science teacher, vine secondary school.  People understand, they are br
 
 ![Yom duom student](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
 
-**Malaual Peter Dau Head teacher**, Vine secondary school , We have partnered with Ataka Hub fro a while, and we are very happy of what they have introduced to the learners because the world has become very practicals, they learn theroires in sciences yet other part of Africa students are learning practical, at least a science student should know what is a , bused burner etc at least then they can start liking and loving the subject!”  
+**Malaual Peter Dau Head teacher, Vine secondary school**  
+We have partnered with Ataka Hub fro a while, and we are very happy of what they have introduced to the learners because the world has become very practicals, they learn theroires in sciences yet other part of Africa students are learning practical, at least a science student should know what is a , bused burner etc at least then they can start liking and loving the subject!”  
 
 ![ED ataka hub](https://user-images.githubusercontent.com/56886935/158629497-5a92616d-0987-4443-bfa2-3777ac8d0f4c.jpg)
 **Bior Ajang - ED Ataka HUB Bor**
