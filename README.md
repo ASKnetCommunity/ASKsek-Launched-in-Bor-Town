@@ -29,7 +29,7 @@ According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains 
 **ASKsek and ASKnet**
 # ASKsek: 
 This is part of the ASKnet events and activities that are aimed at providing skills, and knowledge to communities with difficult in accessing information and resources, by the provision of tools and materials to schools to hence solve local challenges affecting the education sector in Bor this event becomes part of the series of events and projects implemented under the ASKnet project that is implemented by 5 Hubs in Uganda, Juba and Bor!.
-
+![](Images/IMG_20220424_020146_041.jpg)
 These different hubs have different methodologies of approaching problems that affect their communities, in very unique and innovative ways just like the ASKsek that seeks to provide access to tools and materials and reagents (Lab equipment) in mobile kit that can be accessed by over 7 schools in the town suffering a dare need to laboratory equipment to enhance the learning of science subjects in these schools.
 
 **Testimonials**
