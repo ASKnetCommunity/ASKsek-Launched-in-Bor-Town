@@ -18,6 +18,7 @@ According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains 
 Biology Practicals, I.e (Microscope, slides, 
 Physics Practicals I.e (retort stands, clamps, pendulum bob, masses, Glass block, meter rule etc.
 Chemistry, (Reagents, acids, chemicals, indicators, and many more
+![](Images/IMG_20220423_033207_455.jpg)
 
 
 **ASKsek and ASKnet!**
