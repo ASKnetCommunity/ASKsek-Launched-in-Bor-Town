@@ -55,4 +55,6 @@ Science subjects are simple but the reason why students fear science subjects is
 ![](Images/IMG_20220423_032004_519.jpg)
 ![](Images/IMG_20220423_164047_154.jpg)
 # partners
-This project is supported by R0g (Agency for development and critical transformation) with funds from BMZ.
+This project is supported by R0g (Agency for development and critical transformation) through #ASKnet (Access to skills and knowledge network) with funds from BMZ.
+|r0g Agency|ASKnet|ATaka HuB|
+|:--------:|:----:|:-------|
