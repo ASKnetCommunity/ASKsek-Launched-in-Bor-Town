@@ -59,6 +59,6 @@ This project is supported by R0g **(Agency for development and critical transfor
 |r0g Agency|ASKnet|ATaka HUB|
 |:--------:|:----:|:-------|
 |![R0g logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)| ![ATaka logo](Images/IMG_20220424_010643_846.jpg)
-| [Official website](https://openculture.agency/)| [official website](https://github.com/ASKnet-Open-Training)| [official website]()
+| [Official website](https://openculture.agency/)| [official website](https://github.com/ASKnet-Open-Training)| [official website](https://www.weareasknet.org/ataka-hub/)
 
 
