@@ -32,8 +32,6 @@ This is part of the ASKnet events and activities that are aimed at providing ski
 
 These different hubs have different methodologies of approaching problems that affect their communities, in very unique and innovative ways just like the ASKsek that seeks to provide access to tools and materials and reagents (Lab equipment) in mobile kit that can be accessed by over 7 schools in the town suffering a dare need to laboratory equipment to enhance the learning of science subjects in these schools.
 
-This project is supported by r0g Agency for development and Critical transformation, with funds from BMZ
-
 **Testimonials**
 
 ![20220316_105652#1](https://user-images.githubusercontent.com/56886935/158629992-89d4e8e9-a21a-4161-b708-960d950aa42d.jpg)
@@ -56,3 +54,5 @@ We have partnered with Ataka Hub fro a while, and we are very happy of what they
 Science subjects are simple but the reason why students fear science subjects is because there is nothing that simplify the science subjects that’s why we are standing up for our students to make science subject simple and understandable. 
 ![](Images/IMG_20220423_032004_519.jpg)
 ![](Images/IMG_20220423_164047_154.jpg)
+# partners
+This project is supported by R0g (Agency for development and critical transformation) with funds from BMZ.
