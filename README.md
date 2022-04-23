@@ -13,7 +13,12 @@ Vine High secondary schools with a population of about 250 students with over 10
 
 During the Launch of the ASKsek, Mr. Nyiko Baptist organised a physics practical session with the S4 students with a focus on ‘Motion Under Gravity”.
 With the available tools in the ASKSek, Baptist was able to use;
-1. Retort Stand with Clamps, 2.A piece of thread(120cm), 3. A stop watch/Clock, 4. A pendulum Bob, 5. Meter Rule  of which all the needed apparatus where available in the ASKsek.
+- Retort Stand with Clamps, 
+- A piece of thread(120cm), 
+- A stop watch/Clock, 
+- A pendulum Bob, 
+- Meter Rule  of which all the needed apparatus where available in the ASKsek.
+
 According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains science equipments for,
 Biology Practicals, I.e (Microscope, slides, 
 Physics Practicals I.e (retort stands, clamps, pendulum bob, masses, Glass block, meter rule etc.
