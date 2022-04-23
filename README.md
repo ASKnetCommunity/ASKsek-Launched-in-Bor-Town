@@ -47,7 +47,7 @@ Baptist, science teacher, vine secondary school.  People understand, they are br
 ![Yom duom student](https://user-images.githubusercontent.com/56886935/158629675-55393f36-c4c6-4d03-9555-eb75f3eb19a3.jpg)
 
 **Malaual Peter Dau Head teacher, Vine secondary school**  
-We have partnered with Ataka Hub fro a while, and we are very happy of what they have introduced to the learners because the world has become very practicals, they learn theroires in sciences yet other part of Africa students are learning practical, at least a science student should know what is a , bused burner etc at least then they can start liking and loving the subject!”  
+We have partnered with Ataka Hub for a while, and we are very happy of what they have introduced to the learners because the world has become very practicals, they learn theroires in sciences yet other part of Africa students are learning practicals, at least a science student should know what is a , bused burner etc at least then they can start liking and loving the subject!”  
 
 ![ED ataka hub](https://user-images.githubusercontent.com/56886935/158629497-5a92616d-0987-4443-bfa2-3777ac8d0f4c.jpg)
 **Bior Ajang - ED Ataka HUB Bor**
