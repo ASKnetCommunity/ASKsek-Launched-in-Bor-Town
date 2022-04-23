@@ -58,7 +58,7 @@ Science subjects are simple but the reason why students fear science subjects is
 This project is supported by R0g **(Agency for development and critical transformation)** through #ASKnet **(Access to skills and knowledge network)** with funds from BMZ to ATaka HUB in bor south sudan.
 |r0g Agency|ASKnet|ATaka HUB|
 |:--------:|:----:|:-------|
-|![R0g logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)|--|
+|![R0g logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)| ![ATaka logo](Images/IMG_20220424_010643_846.jpg)
 | [Official website](https://openculture.agency/)| [official website](https://github.com/ASKnet-Open-Training)
 
 
