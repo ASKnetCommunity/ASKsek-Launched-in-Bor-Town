@@ -44,3 +44,4 @@ Malaual Peter Dau Head teacher, Vine secondary school , We have partnered with A
 ![ED ataka hub](https://user-images.githubusercontent.com/56886935/158629497-5a92616d-0987-4443-bfa2-3777ac8d0f4c.jpg)
 **Bior Ajang - ED Ataka HUB Bor**
 Science subjects are simple but the reason why students fear science subjects is because there is nothing that simplify the science subjects that’s why we are standing up for our students to make science subject simple and understandable. 
+![](Images/IMG_20220423_032004_519.jpg)
