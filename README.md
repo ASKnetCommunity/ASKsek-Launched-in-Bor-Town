@@ -59,7 +59,7 @@ This project is supported by R0g **(Agency for development and critical transfor
 |BMZ|R0g Agency| ASKnet |ATaka HUB|
 |:--------:|:----:|:-------|----------|
 |![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)| ![ATaka logo](Images/IMG_20220424_010643_846.jpg)
-|           |[Official website](https://openculture.agency/)| [official website](https://github.com/ASKnet-Open-Training)| [official website](https://www.weareasknet.org/ataka-hub/)
+|[Official website](https://www.bmz.de/en)|[Official website](https://openculture.agency/)| [official website](https://github.com/ASKnet-Open-Training)| [official website](https://www.weareasknet.org/ataka-hub/)
 
 
 
