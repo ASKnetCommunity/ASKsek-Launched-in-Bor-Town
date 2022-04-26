@@ -1,4 +1,4 @@
-# ASKsek-Launched-in-Bor-Town-
+# ASKsek Launched in Bor Town
 ![launching #ASKsek](https://user-images.githubusercontent.com/56886935/158627712-4f7a2190-3cb1-4226-836a-9138a958683a.jpg)
 ![](Images/IMG_20220423_031119_950.jpg)
 Ataka Hub, Launched ASKsek **(Access to skills and Knowledge science experiment kit)**, a mobile kit that shall be able to provide laboratory tools,materials and reagensts to enhance the learning of sceince subjects in schools by advocating for practical lessons in schools in Bor town, South Sudan.
@@ -40,7 +40,7 @@ Stands for an abbreviation
 
 And in this case ,one of the resource happens to be the science experiment kit provided through ASKsek to ATaka hub to bor.
 
-For more resources visit the 
+For more resources visit the [official website](https://github.com/ASKnet-Open-Training) of #ASKnet
 
 
 # ASKsek: 
