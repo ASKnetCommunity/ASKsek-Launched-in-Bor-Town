@@ -29,6 +29,7 @@ According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains 
 # ASKnet and ASKsek
 
 **ASKnet**
+
 Stands for an abbreviation;
 
 *A* - *Access*
@@ -42,7 +43,7 @@ Stands for an abbreviation;
 # Definition
 #ASKnet is a network of hubs and community members who subscribe to the vision of;
 - **Educating on media literacy**.
-- Creating communities with hands on experience while providing **open access to skills and knowledge** that can **impact a community** using the **available resources**.
+- Creating communities with **hands on experience** while providing **open access to skills and knowledge** that can **impact a community** using the **available resources**.
 
 And in this case ,one of the resource happens to be the science experiment kit provided through ASKsek to ATaka hub to bor.
 
