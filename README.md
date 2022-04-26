@@ -26,13 +26,19 @@ According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains 
 ![](Images/IMG_20220423_033207_455.jpg)
 ![](Images/IMG_20220423_212946_793.jpg)
 
-**ASKnet and ASKsek**
-# ASKnet
-Stands for an abbreviation
-    A - Access
-    S - Skills
-    K - Knowledge
-  net - network
+# ASKnet and ASKsek
+
+**ASKnet**
+Stands for an abbreviation;
+
+*A* - *Access*
+
+*S* - *Skills*
+
+*K* - *Knowledge*
+
+*net* - *network*
+
 # Definition
 #ASKnet is a network of hubs and community members who subscribe to the vision of;
 - **Educating on media literacy**.
