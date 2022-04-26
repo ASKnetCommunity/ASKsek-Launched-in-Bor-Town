@@ -26,7 +26,23 @@ According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains 
 ![](Images/IMG_20220423_033207_455.jpg)
 ![](Images/IMG_20220423_212946_793.jpg)
 
-**ASKsek and ASKnet**
+**ASKnet and ASKsek**
+# ASKnet
+Stands for an abbreviation
+    A - Access
+    S - Skills
+    K - Knowledge
+  net - network
+# Definition
+#ASKnet is a network of hubs and community members who subscribe to the vision of;
+- **Educating on media literacy**.
+- Creating communities with hands on experience while providing **open access to skills and knowledge** that can **impact a community** using the **available resources**.
+
+And in this case ,one of the resource happens to be the science experiment kit provided through ASKsek to ATaka hub to bor.
+
+For more resources visit the 
+
+
 # ASKsek: 
 This is part of the ASKnet events and activities that are aimed at providing skills, and knowledge to communities with difficult in accessing information and resources, by the provision of tools and materials to schools to hence solve local challenges affecting the education sector in Bor this event becomes part of the series of events and projects implemented under the ASKnet project that is implemented by 5 Hubs in Uganda, Juba and Bor!.
 ![](Images/IMG_20220424_020146_041.jpg)
