@@ -80,7 +80,7 @@ Science subjects are simple but the reason why students fear science subjects is
 
 For more items in the science experiment kit click>>> [items](lab-item-list.csv)
 
-For tools click >>>
+For tools click >>>[Tools](Tools-list.csv)
 # partners and funders
 This project is supported by r0g **(Agency for development and critical transformation)** through #ASKnet **(Access to skills and knowledge network)** with funds from Federal ministry for economic cooperation and development **(BMZ)** in berlin to ATaka HUB in bor south sudan.
 |BMZ|r0g Agency| ASKnet |ATaka HUB|
