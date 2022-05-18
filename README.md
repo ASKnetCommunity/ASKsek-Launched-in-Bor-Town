@@ -20,9 +20,9 @@ With the available tools in the ASKSek, Baptist was able to use;
 - Meter Rule  of which all the needed apparatus where available in the ASKsek.
 
 According to the Programs Manager of Ataka Hub, Ghai Tong , the ASksek contains science equipments for,
-- Biology Practicals, I.e (Microscope, slides, 
-- Physics Practicals I.e (retort stands, clamps, pendulum bob, masses, Glass block, meter rule etc.
-- Chemistry, (Reagents, acids, chemicals, indicators, and many more
+- **Biology Practicals**, I.e (Microscope, slides, 
+- **Physics Practicals** I.e (retort stands, clamps, pendulum bob, masses, Glass block, meter rule etc.
+- **Chemistry**, (Reagents, acids, chemicals, indicators, and many more
 ![](Images/IMG_20220423_033207_455.jpg)
 ![](Images/IMG_20220423_212946_793.jpg)
 
