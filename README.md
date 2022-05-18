@@ -82,7 +82,7 @@ For more items in the science experiment kit click>>> [items](lab-item-list.csv)
 
 For tools click >>>[Tools](Tools-list.csv)
 # partners and funders
-This project is supported by r0g **(Agency for development and critical transformation)** through #ASKnet **(Access to skills and knowledge network)** with funds from Federal ministry for economic cooperation and development **(BMZ)** in berlin to ATaka HUB in bor south sudan.
+This project is supported by r0g **(Agency for development and critical transformation)** through #ASKnet **(Access to skills and knowledge network)** with funds from **Federal ministry for economic cooperation and development** *(BMZ)* in berlin to ATaka HUB in bor south sudan.
 |BMZ|r0g Agency| ASKnet |ATaka HUB|
 |:--------:|:----:|:-------|----------|
 |![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)| ![ATaka logo](Images/IMG_20220424_010643_846.jpg)
